@@ -1,3 +1,17 @@
-# My_First_React_Project
-This is repo that I created to learn React
-sfsf lskjfls jfslfj slfkjsf lksj fslkfj sfkljs flksjd flksfj
+git init
+
+git status
+
+git add .
+
+git commit -m "comments"
+
+git push origin master
+
+git diff fileName
+
+git diff --staged fileName
+
+git reset fileName
+
+git checkout fileName
