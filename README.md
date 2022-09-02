@@ -15,3 +15,5 @@ git diff --staged fileName
 git reset fileName
 
 git checkout fileName
+
+git checkout .
